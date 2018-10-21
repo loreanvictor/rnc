@@ -1,4 +1,4 @@
-# rnc
+# rcnames
 a simple module to generate random code names.
 
 ## setup
