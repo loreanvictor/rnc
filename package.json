@@ -1,7 +1,7 @@
 {
-  "name": "connect-platform-package-boilerplate",
-  "version": "1.0.0",
-  "description": "the boilerplate project for CONNECT platform packages.",
+  "name": "rcnames",
+  "version": "0.0.1",
+  "description": "random code names.",
   "main": ".",
   "scripts": {
     "start": "nodemon app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loreanvictor/connect-platform-package-boilerplate.git"
+    "url": "git+https://github.com/loreanvictor/rnc.git"
   },
   "author": "Eugene Ghanizadeh Khoub <ghanizadeh.eugene@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/loreanvictor/connect-platform-package-boilerplate/issues"
+    "url": "https://github.com/loreanvictor/rnc/issues"
   },
-  "homepage": "https://github.com/loreanvictor/connect-platform-package-boilerplate#readme",
+  "homepage": "https://github.com/loreanvictor/rnc",
   "dependencies": {
     "connect-platform": "^0.2.6"
   },
