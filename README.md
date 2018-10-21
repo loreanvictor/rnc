@@ -1,3 +1,5 @@
+![logo](assets/logo.png)
+
 # rcnames
 a simple module to generate random code names.
 
