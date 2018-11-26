@@ -1,6 +1,6 @@
 {
   "name": "rcnames",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "random code names.",
   "main": ".",
   "scripts": {
@@ -18,9 +18,13 @@
   },
   "homepage": "https://github.com/loreanvictor/rnc",
   "dependencies": {
-    "connect-platform": "^0.2.6"
+
+  },
+  "peerDependencies": {
+    "connect-platform": "*"
   },
   "devDependencies": {
-    "nodemon": "^1.18.4"
+    "nodemon": "^1.18.4",
+    "connect-platform": "^0.2.6"
   }
 }
